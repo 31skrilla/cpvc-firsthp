@@ -15,12 +15,12 @@ after each dash and leave the dashes alone.
 
 ---
 
-- **T &mdash; Thing:** *one sentence. If someone asked "what did you make?", this is the answer*
-- **A &mdash; Audience:** *a specific person, not a category*
-- **R &mdash; Requirements:** *the two or three things that, if missing, make it pointless*
-- **G &mdash; Guardrails:** *what it must never do*
-- **E &mdash; Experience:** *sections in order, one accent color, one site it should feel like*
-- **T &mdash; Test:** *what you would check before showing it to someone whose opinion you care about*
+- **T &mdash; Thing:** A dash board with suggested sports betting picks for each day based on the live events for that day.
+- **A &mdash; Audience:** Sports bettors who want an easy way to pick lines for the day without having to do their own reasearch.
+- **R &mdash; Requirements:** Accurate and up to date lines, easy to read dashboard, explanations for picks.
+- **G &mdash; Guardrails:** Can't make up events that aren't actually happening that day.
+- **E &mdash; Experience:** Picks sorted by sport, easy to read, contrasting color scheme.
+- **T &mdash; Test:** I can open up the website, look at picks, take certain lines that happen that day, take money and put it on those lines and win money.
 
 ---
 
